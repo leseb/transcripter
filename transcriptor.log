@@ -1,8 +1,0 @@
-2026-03-06 16:50:50,828 - src.transcriptor.transcriptor - INFO - [transcriptor.py:43] - OpenAI client initialized successfully
-2026-03-06 16:50:50,828 - src.transcriptor.transcriptor - INFO - [transcriptor.py:47] - Maximum chunk size set to 1200 seconds
-2026-03-06 16:50:50,830 - src.transcriptor.transcriptor - INFO - [transcriptor.py:180] - ==================================================
-2026-03-06 16:50:50,833 - src.transcriptor.transcriptor - INFO - [transcriptor.py:181] - Transcripter application starting up
-2026-03-06 16:50:50,833 - src.transcriptor.transcriptor - INFO - [transcriptor.py:182] - Python version: 3.12.8 (main, Dec  3 2024, 18:42:41) [Clang 16.0.0 (clang-1600.0.26.4)]
-2026-03-06 16:50:50,833 - src.transcriptor.transcriptor - INFO - [transcriptor.py:183] - Working directory: /Users/leseb/Documents/Perso/Transcripter
-2026-03-06 16:50:50,834 - src.transcriptor.transcriptor - INFO - [transcriptor.py:184] - OpenAI API key configured: Yes
-2026-03-06 16:50:50,834 - src.transcriptor.transcriptor - INFO - [transcriptor.py:185] - ==================================================

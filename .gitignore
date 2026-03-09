@@ -1,13 +1,16 @@
-# Python-generated files
+# Python (legacy)
 __pycache__/
 *.py[oc]
 build/
 dist/
 wheels/
 *.egg-info
-
-# Virtual environments
 .venv
 
+# Go binaries
+transcripter
+transcripter-linux-*
+
+# App data
 transcripts/
 transcriptor.log
